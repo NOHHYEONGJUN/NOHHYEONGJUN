@@ -61,12 +61,11 @@
 
 ### ✉️ &nbsp; LOG & CONTACT &nbsp; ✉️
 
-![blog](https://img.shields.io/badge/Velog-20c997?style=for-the-badge&logo=Vimeo&logoColor=white)
+[![Velog](https://img.shields.io/badge/Velog-20c997?style=for-the-badge&logo=Vimeo&logoColor=white)](https://velog.io/@nhj7804)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nhj7804@jbnu.ac.kr)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/%ED%98%95%EC%A4%80-%EB%85%B8-22a1b5326/)
 
-
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=nhj7804)](https://github.com/NOHHYEONGJUN/velog-readme-stats)
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=nhj7804)](https://velog.io/@nhj7804)
 
 
 
