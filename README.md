@@ -8,17 +8,18 @@ DevOps, Cloud 분야에 관심과 흥미가 있는 대학생입니다.
 
 ### ✨ &nbsp; TECK STACK &nbsp; ✨
 
-![stack](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![stack](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+![stack](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![stack](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white)
 ![stack](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
 
 ![stack](https://img.shields.io/badge/gitlab-FC6D26.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 ![stack](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white)
-![stack](https://img.shields.io/badge/circleci-343434?style=for-the-badge&logo=circleci&logoColor=white)
 ![stack](https://img.shields.io/badge/harbor-60B932?style=for-the-badge&logo=harbor&logoColor=white)
-![stack](https://img.shields.io/badge/argocd-FF7328?style=for-the-badge&logo=argo&logoColor=white)
 ![stack](https://img.shields.io/badge/sonarqube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white)
+![stack](https://img.shields.io/badge/argocd-FF7328?style=for-the-badge&logo=argo&logoColor=white)
+![stack](https://img.shields.io/badge/circleci-343434?style=for-the-badge&logo=circleci&logoColor=white)
+
 
 ![stack](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
 ![stack](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white)
