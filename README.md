@@ -1,9 +1,9 @@
 ## 🧑🏻‍💻 NOH HYEONGJUN
 
-DevOps, Cloud 분야에 관심과 흥미가 있는 대학생입니다.
+DevOps, Cloud에 관심과 흥미가 있는 학생입니다.
 
-해당 분야의 전문성을 위해 공부 중입니다.
-
+해당 분야의 전문성을 위해 학습 중입니다.
+ 
 &nbsp;
 
 ### ✨ &nbsp; TECK STACK &nbsp; ✨
