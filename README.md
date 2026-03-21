@@ -1,8 +1,7 @@
 ## 🧑🏻‍💻 NOH HYEONGJUN
 
-DevOps, Cloud에 관심과 흥미가 있는 학생입니다.
+#### Cloud Engineer, @CJOliveNetworks
 
-해당 분야의 전문성을 위해 학습 중입니다.
  
 &nbsp;
 
